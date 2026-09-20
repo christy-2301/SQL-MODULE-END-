@@ -11,3 +11,5 @@ The project focuses on cleaning and transforming customer data and analyzing fac
 - Customer returns analysis
 
 The project demonstrates practical skills in SQL data cleaning, transformation, aggregation, filtering, subqueries, and joins.
+
+drive link: https://drive.google.com/drive/folders/1QBP6lDIPSNEEvAc4w559-DbDpVdLgOhh?usp=sharing
